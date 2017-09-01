@@ -6,14 +6,14 @@
 
 
 
-###  Chapter 1: What is I/O psychology <a name="chapter-1"></a>
-  #### Learning Objectives
+##  Chapter 1: What is I/O psychology <a name="chapter-1"></a>
+  ### Learning Objectives
   * Understand what the field of Industrial/Organizational psychology studies
   * Understand the evolution of theories and studies that lead to modern day Industrial/Organizational psychology
   * Understand the multicultural and cross-cultural issues in Industrial/Organizational psychology
 ------
 
-##### What is Psychology?
+#### What is Psychology?
   Psychology – The scientific study of human feelings, behavior and thoughts <br>
   The ABCs of Psychology:
   * __Affect__: person's feelings/emotions
@@ -21,7 +21,7 @@
   * __Cognition__: person's belief/knowledge
 ------
 
-##### The Basics of Industrial/Organizational Psychology
+#### The Basics of Industrial/Organizational Psychology
   I/O Psychology – The scientific study and application of psychological principles to work
   What is work?
   ```
@@ -39,20 +39,20 @@
   * Practioners who develop scientific knowledge and apply it to the solution of problems at work
 ------
 
-##### History of I/O Psychology
-###### Wilhelm Wundt
+#### History of I/O Psychology
+##### Wilhelm Wundt
   * Founded one of the first PSYC lab
   * trained Hugo Munsterberg and James McKeenCattell
   * Initially, he was a devoted experimental psychologist who actually rejected any value for the application of psychology to the workplace (Benjamin, 2006). Soon, however, he saw the potential of psychology to address many practical problems of the early
 20th century.
-###### Hugo Munsterberg
+##### Hugo Munsterberg
   * People are “replacement parts” that need to fit the organization’s needs
-###### Frank & Lilian Gilbreth
-###### Roberty Yerkes & Walter Dill Scott
-###### The Hawthorne Studies
-###### Hugo Munsterberg
+##### Frank & Lilian Gilbreth
+##### Roberty Yerkes & Walter Dill Scott
+##### The Hawthorne Studies
+##### Hugo Munsterberg
 
 
-### Chapter2: Methods & Statistics of I/O Psychology <a name="chapter-2"></a>
+## Chapter2: Methods & Statistics of I/O Psychology <a name="chapter-2"></a>
 
 
